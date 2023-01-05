@@ -1,2 +1,2 @@
 # Rust Variational Inference Example
-Variational inference in Rust based on [this Pyro example](https://pyro.ai/examples/intro_part_ii.html)
+Variational inference in Rust based on [this Pyro example](https://pyro.ai/examples/intro_part_ii.html) using Natural Evolution Strategies for gradient ascent.
